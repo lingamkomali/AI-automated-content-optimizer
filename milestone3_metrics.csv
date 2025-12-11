@@ -1,0 +1,9 @@
+timestamp,post_id,variant,text,sentiment_score,sentiment_label,impressions,clicks,likes,comments,ctr,engagement_rate,ab_test_id,ab_winner,ab_reason
+2025-12-01T12:38:52.879514,post_992,A,"""This product is amazing and super useful!""",1.0,positive,1,0,0,0,0.0,0.0,,,
+2025-12-01T12:39:41.902483,post_276,A,"""Amazing offer!""",0.0,neutral,1500,200,23,235,0.1333,0.172,,,
+2025-12-01T12:41:24.360041,post_2355,A,A,0.0,neutral,2345,2,234,22,0.0009,0.1092,post_345,,
+2025-12-01T12:41:24.360881,post_2355,B,worst product,-1.0,negative,12,2,211,122,0.1667,27.75,post_345,B,higher CTR
+2025-12-01T13:11:35.949770,pst_001,A,this product is best,0.0,neutral,1,0,0,0,0.0,0.0,,,
+2025-12-01T13:12:39.425530,post_001,A,best product,0.0,neutral,123,23,32,78,0.187,0.8943,campaign_01,,
+2025-12-01T13:12:39.426303,post_001,B,cost is high,0.0,neutral,234,344,33,22,1.4701,0.235,campaign_01,B,higher CTR
+2025-12-01T13:20:41.882859,post_886,A,"This is the worst experience ever, very disappointing and bad.",-1.0,negative,1,0,0,0,0.0,0.0,,,
